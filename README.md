@@ -1,4 +1,4 @@
-# **README: Retrieval-Augmented Generation (RAG) System**
+# **Retrieval-Augmented Generation (RAG) System**
 
 ## **Project Overview**
 This project implements a Retrieval-Augmented Generation (RAG) system that assists users by answering questions related to a device’s user manual. The system retrieves relevant sections from the manual and generates answers using a pre-trained large language model (LLM). It evaluates the system's performance based on metrics like **latency**, **precision**, **recall**.
